@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_twopanes.xml",
+        "source": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\src\\main\\res\\layout\\activity_main_twopanes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_fragment.xml",
+        "source": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\src\\main\\res\\layout\\contact_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_item.xml",
+        "source": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\src\\main\\res\\layout\\contact_detail_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_fragment.xml",
+        "source": "D:\\AndroidStudio\\samples\\android-23\\content\\HelloWorld\\contactsList\\src\\main\\res\\layout\\contact_list_fragment.xml"
+    }
+]
